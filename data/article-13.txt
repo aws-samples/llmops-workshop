@@ -1,0 +1,11 @@
+ <title>Local Landmarks Damaged in Storm</title>
+
+<content>
+Our town was hit hard by a severe thunderstorm last night that left a path of destruction through Main Street. Many of our most beloved landmarks were damaged in the heavy winds and rain.
+
+The storm rolled in around 8:00 pm, bringing with it heavy rains that caused flash flooding. Not long after, winds upwards of 60 mph pounded the downtown area, toppling trees and downing power lines. The historic Main Street Bridge was one of the first casualties, with two large oak trees falling onto the century-old stone structure. While the bridge is still standing, engineers will need to thoroughly inspect it for structural damage. 
+
+Further down Main Street, the winds ripped off part of the roof at City Hall, letting water pour into the top floors. The mayor's office suffered considerable water damage before emergency crews could tarp the roof. At Memorial Park, the beloved statue of our town founder was knocked off its granite base when the old maple next to it fell during the winds. 
+
+In the light of day, residents are picking up branches and debris left behind by the storm. Though we have a lot of cleanup and repairs ahead of us, we're thankful no injuries were reported. Our community has weathered storms before and we'll work together to fix the damage to our hometown landmarks, making them even better than before.
+</content>

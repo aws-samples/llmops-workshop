@@ -1,0 +1,11 @@
+ <title>Major Storm Wreaks Havoc Across Midwest</title>
+
+<content>
+A powerful storm system swept across the Midwest today, bringing high winds, heavy rain, and severe flooding to several states. The storm formed early this morning in the Plains and rapidly intensified as it moved northeastward. 
+
+The worst damage occurred in Illinois, where wind gusts reached 80 mph in some areas. Numerous trees and power lines were downed, leaving over 100,000 residents without electricity. Flooding was also extensive, with several rivers overflowing their banks and submerging roads and homes. At least five deaths have been attributed to the flooding so far.
+
+Other affected states include Missouri, Indiana, Michigan, and Ohio. Flights were grounded at Chicago's O'Hare Airport for several hours and major highways were shut down due to poor visibility and hazardous conditions. The National Weather Service has issued a High Wind Warning for the region, cautioning residents to avoid unnecessary travel and remain indoors if possible.
+
+Forecasters say the storm will continue moving towards the East Coast over the next 24 hours. Heavy rain is expected from Ohio to Maine, with additional flooding possible. Citizens are advised to monitor local media for updates and follow instructions from emergency officials. For now, recovery efforts are just beginning across the Midwest following one of the most destructive storms in recent years.
+</content>

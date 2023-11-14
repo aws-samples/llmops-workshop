@@ -1,0 +1,13 @@
+ <title>Major Breakthrough in Cancer Research Reported</title>
+
+<content>
+Scientists at the National Cancer Institute announced today what they are calling a "major breakthrough" in cancer research. After over a decade of study, researchers have discovered a new approach that shows great promise in treating various forms of cancer. 
+
+The new treatment involves a specially engineered virus that selectively targets and destroys cancer cells while leaving healthy cells unharmed. In initial trials, the virus was able to shrink tumors and even eliminate cancers altogether in some patients.
+
+"This is the most exciting advancement we've seen yet," said Dr. Alice Howard, lead researcher on the project. "While more testing is needed, this could truly revolutionize how we treat cancer going forward."  
+
+The virus works by entering cancer cells and instructing them to self-destruct. According to Dr. Howard, the virus is able to differentiate cancerous cells from normal ones based on certain protein signatures on their surfaces.
+
+Researchers plan to begin larger human trials later this year. If successful, the treatment could be submitted for FDA approval within the next 3-5 years. The research team cautions that while these results are promising, more work is needed to ensure the safety and efficacy of the virus. Still, they remain optimistic that this marks a turning point in the fight against cancer.
+</content>

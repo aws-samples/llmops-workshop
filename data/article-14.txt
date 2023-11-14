@@ -1,0 +1,15 @@
+ <title>Major Earthquake Strikes California</title>
+
+<content>
+A powerful 7.8 magnitude earthquake struck Southern California late Tuesday night, causing widespread damage and triggering fears of a larger quake in the coming days. 
+
+The quake, which struck at 11:46 PM local time, was centered in the Mojave Desert about 20 miles north of Barstow. It was felt across a wide swath of Southern California as far south as San Diego and Tijuana, Mexico. 
+
+In Los Angeles and Orange Counties, the shaking lasted for nearly a minute. Highrises swayed and freeways buckled. Power was knocked out to over 2 million residents. Numerous gas leaks led to structure fires in downtown L.A. 
+
+The earthquake comes on the heels of a 6.4 magnitude tremor that hit the Ridgecrest area on the Fourth of July. Seismologists have warned that these could be foreshocks preceding an even bigger temblor on the San Andreas Fault.
+
+Gov. Gavin Newsom declared a state of emergency and requested a federal disaster declaration. He urged residents to prepare for potentially powerful aftershocks that may continue for days or weeks.
+
+The quake was felt as far away as Phoenix and Las Vegas. No tsunami warning was issued by the National Weather Service.
+</content>

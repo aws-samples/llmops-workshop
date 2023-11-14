@@ -1,0 +1,9 @@
+ <title>New Superhero Saves City from Evil Robot Attack</title>
+
+<content>
+Metropolis - A new superhero who goes by the name Power Man saved Metropolis from an evil robot attack last night. Around 10 PM, a 50-foot tall robot suddenly emerged downtown and began smashing buildings and cars. The police tried to stop it but their weapons had no effect. Just as all hope seemed lost, Power Man flew in and punched the robot so hard its head went flying off. 
+
+After defeating the robot, Power Man gave a short speech saying he was here to protect the city from evil. He has super strength, can fly, and is invulnerable to harm. The mayor gave him the key to the city and said Power Man was welcome in Metropolis anytime. 
+
+Where did Power Man get his powers? How did the robot get created? We don't know yet, but it seems Metropolis has a new protector. The citizens are grateful to have been saved from catastrophe. It will be interesting to see what new challenges Power Man takes on next. For now, thanks to him, Metropolis is safe once again.
+</content>

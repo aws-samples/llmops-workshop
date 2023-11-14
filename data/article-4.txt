@@ -1,0 +1,17 @@
+ <title>Major Earthquake Strikes Central California</title>
+
+<content>
+A devastating 7.8 magnitude earthquake struck central California this morning, causing widespread damage and casualties throughout the region. 
+
+The quake struck at approximately 8:46 AM local time and was centered near the town of Parkfield in Monterey County. The shaking was felt as far north as Sacramento and as far south as Los Angeles. 
+
+Emergency responders are still assessing the full extent of the damage, but early reports indicate collapsed buildings and bridges in many towns and cities. Fires have broken out following gas line ruptures. Power outages are also widespread.
+
+Authorities have confirmed at least 120 fatalities so far, but that number is expected to rise. Hospitals are overwhelmed with injuries, from minor cuts and bruises to severe trauma. 
+
+Search and rescue teams along with the National Guard have been deployed to the hardest hit areas. They are combing through rubble to find survivors trapped in collapsed structures. 
+
+Aftershocks continue to rock the area, causing additional damage and hampering rescue efforts. Seismologists warn that large aftershocks over 6.0 magnitude are likely over the next several days. 
+
+Residents throughout the central California region are advised to exercise extreme caution. Expect transportation disruptions, closed highways, and continued power and water outages over the coming days and weeks.
+</content>

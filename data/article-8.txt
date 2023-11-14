@@ -1,0 +1,15 @@
+ <title>Major Earthquake Strikes Coastal City</title>
+
+<content>
+A powerful 7.2 magnitude earthquake struck the coastal city of Seaside early this morning, causing widespread damage and triggering a tsunami warning. 
+
+The quake hit at 4:32 AM local time and was centered about 10 miles offshore. Residents reported violent shaking that lasted for nearly a minute. Numerous buildings in the downtown area collapsed, trapping many people inside. 
+
+Emergency crews have been working feverishly to search the rubble and rescue those trapped. At least 150 people are feared dead so far. Hospitals are overwhelmed with hundreds of injured people seeking treatment. 
+
+The mayor has declared a state of emergency and urged people to stay off the streets. All bridges leading into the city have been closed while engineers inspect them for structural damage. 
+
+A tsunami warning was briefly issued for the region but was cancelled after only small waves were generated. Still, significant flooding occurred in low-lying coastal areas from the surges.
+
+Recovery efforts are underway but the damage is extensive. The earthquake has left wide swaths of the city in ruins. It may take months or years for Seaside to fully recover.  
+</content>
