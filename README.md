@@ -3,7 +3,8 @@
 ## Getting started
 This workshop is designed to help you operationalize an open source Large Language Model (LLM), and use the LLM to build a generative AI Q&A bot. Basically, this workshop is broken down into the following parts:
 
-**Part I**: Finetune and operationalize an LLM
+### Part 1: Finetune and operationalize an LLM
+
 1. Register a base LLM model using SageMaker Model Registry
 
 2. Finetune a Llama2 model with custom dataset using SageMaker Processing, Training and Inference using SageMaker Hosting.
@@ -12,7 +13,7 @@ This workshop is designed to help you operationalize an open source Large Langua
 
 4. Model Monitoring for LLM.
 
-**Part II**: Build a generative AI Q&A Chatbot with RAG architecture on AWS
+### Part 2: Build a generative AI Q&A Chatbot with RAG architecture on AWS
 
 1. Deploy an Embedding Model through SageMaker Jumpstart. The embedding model will be used for creating embedding for the content to be stored in a vector database.
 
