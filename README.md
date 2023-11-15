@@ -27,4 +27,4 @@ The following diagram depicts the building blocks used in the workshop:
 
 
 ## LLMOps Workshop 
-This repository contains the materials and source codes required to complete the workshop. For instruction on how to get started, please refer to this [link](https://studio.us-east-1.prod.workshops.aws/preview/958877b7-af54-434e-8133-15bbb7693947/builds/3cab4a24-e00e-4dfe-a5c1-7df87b2126b2/en-US):
+This repository contains the materials and source codes required to complete the workshop. For instruction on how to get started, please refer to this [link](https://catalog.us-east-1.prod.workshops.aws/workshops/958877b7-af54-434e-8133-15bbb7693947):
