@@ -19,7 +19,7 @@ To get started, make sure you have these prerequisites completed.
 2. Add **Amazon Bedrock permission** to SageMaker Execution Role
 3. Add **AmazonEC2ContainerRegistryFullAccess** policy to SageMaker Execution Role to access ECR
 
-You will need to provide jsonl data captures which was created in lab2 to be able to run the notebooks. Use [ragas_framework notebook](ragas_framework.ipynb) to study MDD (Metrics-Driven Development) for llm to create custom metrics for monitoring and for the purposes of completing lab3, you can run [lab3-custom-monitoring-for-llm notebook](lab3-custom-monitoring-for-llm.ipynb). 
+You will need to provide jsonl data captures which was created in lab2 to be able to run the notebooks. Use [ragas_framework notebook](ragas_framework.ipynb) to study MDD (Metrics-Driven Development) for llm to create custom metrics for monitoring and for the purposes of completing lab3, you can run [lab3-custom-monitoring-for-llm notebook](lab3-custom-monitoring-for-llm.ipynb). You can find out more information related to the concept of [Metrics-Driven Development](https://docs.ragas.io/en/latest/concepts/metrics_driven.html). 
 
 ## Metrics-Driven Development
 
