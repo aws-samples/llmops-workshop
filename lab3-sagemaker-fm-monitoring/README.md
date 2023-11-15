@@ -17,7 +17,7 @@ To get started, make sure you have these prerequisites completed.
 
 1. Complete lab2 where you hosted a fine tuned Llama 2 model and enabled data capture on the live endpoint.
 2. Add **Amazon Bedrock permission** to SageMaker Execution Role
-3. Add **AmazonEC2ContainerRegistryFullAccess** policy to SageMaker Execution Role to access ECR
+3. Add [**AmazonEC2ContainerRegistryFullAccess**](https://docs.aws.amazon.com/aws-managed-policy/latest/reference/AmazonEC2ContainerRegistryFullAccess.html) policy to SageMaker Execution Role to access ECR
 
 You will need to provide jsonl data captures which was created in lab2 to be able to run the notebooks. 
 * Use [ragas_framework notebook](ragas_framework.ipynb) to study MDD (Metrics-Driven Development) for llm to create custom metrics for monitoring and for the purposes of completing lab3, you can run [lab3-custom-monitoring-for-llm notebook](lab3-custom-monitoring-for-llm.ipynb). 
