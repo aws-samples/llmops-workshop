@@ -26,6 +26,7 @@ import logging
 from urllib.parse import urlparse
 import json
 import shutil
+import bitsandbytes as bnb
 
 
 # Output directory where the model predictions and checkpoints will be stored
@@ -217,8 +218,7 @@ def load_tokenizer(args, model_name):
     tokenizer.padding_side = "right" # Fix weird overflow issue with fp16 training
     return tokenizer
 
-
-def load_lora_config(args):
+def load_lora_config(args, modules):
     """
     Loads QLoRA configuration for the training job. 
     
@@ -230,6 +230,7 @@ def load_lora_config(args):
         r=args.lora_r,
         bias=args.lora_bias,
         task_type="CAUSAL_LM",
+        target_modules = modules
     )
     return peft_config
 
@@ -283,6 +284,18 @@ def model_evaluation(args, metrics):
         f.write(json.dumps(evaluation_metrics))
     s3_upload(args.model_eval_s3_loc, evaluation_path)
 
+    
+# COPIED FROM https://github.com/artidoro/qlora/blob/main/qlora.py
+def find_all_linear_names(model):
+    lora_module_names = set()
+    for name, module in model.named_modules():
+        if isinstance(module, bnb.nn.Linear4bit):
+            names = name.split(".")
+            lora_module_names.add(names[0] if len(names) == 1 else names[-1])
+
+    if "lm_head" in lora_module_names:  # needed for 16-bit
+        lora_module_names.remove("lm_head")
+    return list(lora_module_names)
 
 def training_function(args):
     print(f"merging weights: {args.merge_weights}")
@@ -296,7 +309,8 @@ def training_function(args):
         model_name = base_model_path
     model = load_pretrained_model(args, model_name, compute_dtype)
     tokenizer = load_tokenizer(args, model_name)
-    lora_config = load_lora_config(args)
+    lora_modules = find_all_linear_names(model)
+    lora_config = load_lora_config(args, lora_modules)
     packing = True if args.packing else False
     fp16 = True if args.fp16 else False
     bf16 = False
