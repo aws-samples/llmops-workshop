@@ -62,13 +62,13 @@ if __name__ == "__main__":
 
     print("Received arguments {}".format(args))    
     
-    dataset = load_dataset(args.hf_dataset_name, "distractor", split=f"train[{args.train_data_split}]")
+    dataset = load_dataset(args.hf_dataset_name, "distractor", split=f"train[{args.train_data_split}]", trust_remote_code = True)
     new_dataset = dataset.map(template_dataset, remove_columns=list(dataset.features))
     training_input_path = "/opt/ml/processing/train"
     new_dataset.save_to_disk(training_input_path)
     print(f"training dataset uploaded to: {training_input_path}")
 
-    eval_dataset = load_dataset(args.hf_dataset_name, "distractor", split=f"train[{args.eval_data_split}]")
+    eval_dataset = load_dataset(args.hf_dataset_name, "distractor", split=f"train[{args.eval_data_split}]", trust_remote_code = True)
     new_eval_dataset = dataset.map(template_dataset, remove_columns=list(eval_dataset.features))
     eval_input_path = "/opt/ml/processing/eval"
     new_eval_dataset.save_to_disk(eval_input_path)
